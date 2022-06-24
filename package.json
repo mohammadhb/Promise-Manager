@@ -1,0 +1,27 @@
+{
+  "name": "promise-manager",
+  "version": "0.1.0",
+  "description": "Manages all of the Promises and executes them in a smart and optimized way and feed them with previous-executed Promises' values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mohammadhb/Promise-Manager.git"
+  },
+  "keywords": [
+    "promise",
+    "smart",
+    "manager",
+    "manage",
+    "feeding-promises",
+    "parallel"
+  ],
+  "author": "Mohammad Hosein Balkhani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohammadhb/Promise-Manager/issues"
+  },
+  "homepage": "https://github.com/mohammadhb/Promise-Manager#readme"
+}
